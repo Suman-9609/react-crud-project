@@ -1,2 +1,3 @@
 Before run this project please run this command
 "npm i"
+go to tailwind css website
